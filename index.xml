@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Hacking-Google-Maps Contest Submission</title>
+      <link>https://manvi07.github.io/post/hacking-google-maps/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://manvi07.github.io/post/hacking-google-maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EinsteinPy: A Community Python Package for General Relativity</title>
       <link>https://manvi07.github.io/publication/einsteinpy/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
@@ -42,14 +50,6 @@
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Hacking-Google-Maps Contest Submission</title>
-      <link>https://manvi07.github.io/post/hacking-google-maps/</link>
-      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://manvi07.github.io/post/hacking-google-maps/</guid>
-      <description></description>
     </item>
     
   </channel>
