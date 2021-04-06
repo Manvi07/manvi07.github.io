@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manvi Gupta</title>
-    <link>https://manvi07.github.io/author/manvi-gupta/</link>
-      <atom:link href="https://manvi07.github.io/author/manvi-gupta/index.xml" rel="self" type="application/rss+xml" />
-    <description>Manvi Gupta</description>
+    <title>Blog | Manvi Gupta</title>
+    <link>https://manvi07.github.io/category/blog/</link>
+      <atom:link href="https://manvi07.github.io/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://manvi07.github.io/author/manvi-gupta/avatar_hu141dcbf00cbc50e53a96e57003e613c8_218509_270x270_fill_q90_lanczos_center.jpg</url>
-      <title>Manvi Gupta</title>
-      <link>https://manvi07.github.io/author/manvi-gupta/</link>
+      <url>https://manvi07.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Blog</title>
+      <link>https://manvi07.github.io/category/blog/</link>
     </image>
     
     <item>
@@ -93,14 +93,6 @@ The news of the virus was spreading like fire. Everywhere I went, it was the onl
 Technology indeed played a crucial role in these times. MNCs, govt. offices and educational institutes soon adapted to the virtual mode of communication and events (from schooling to weddings) that only used to happen in an in-person mode, were now being held online. Sanitizers and masks became an everyday utility and strict measures were imposed on any kind of gatherings. The world also experienced a time when all the transportation was stopped, local trains as well as international flights.
 With technology coming to the rescue in such times, there’s more to ponder upon. The pandemic brought many people home, giving them time to think about the delightful gift of life, that of family and friends, and the need to celebrate their existence every day. This new mode of life has definitely made us stronger and loving, as some people rightly address it as, &lt;i&gt;“nature’s way of reminding humans of &lt;b&gt;humanity!&lt;/b&gt;”&lt;/i&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Hacking-Google-Maps Contest Submission</title>
-      <link>https://manvi07.github.io/post/hacking-google-maps/</link>
-      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://manvi07.github.io/post/hacking-google-maps/</guid>
-      <description></description>
     </item>
     
   </channel>
