@@ -5,12 +5,21 @@
     <link>https://manvi07.github.io/project/</link>
       <atom:link href="https://manvi07.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manvi07.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://manvi07.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Optimizing Functional Language Compiler</title>
+      <link>https://manvi07.github.io/project/functional/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://manvi07.github.io/project/functional/</guid>
+      <description>&lt;p&gt;Description coming soon!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AlgoDiff Spark</title>
