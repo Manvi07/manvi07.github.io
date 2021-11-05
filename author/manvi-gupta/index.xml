@@ -5,12 +5,20 @@
     <link>https://manvi07.github.io/author/manvi-gupta/</link>
       <atom:link href="https://manvi07.github.io/author/manvi-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Manvi Gupta</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manvi07.github.io/author/manvi-gupta/avatar_hu141dcbf00cbc50e53a96e57003e613c8_218509_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Manvi Gupta</title>
       <link>https://manvi07.github.io/author/manvi-gupta/</link>
     </image>
+    
+    <item>
+      <title>Why Deep Learning Works?</title>
+      <link>https://manvi07.github.io/talk/mtp/</link>
+      <pubDate>Mon, 21 Jun 2021 11:00:00 +0000</pubDate>
+      <guid>https://manvi07.github.io/talk/mtp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The World was Hit by a Pandemic!</title>
