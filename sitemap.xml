@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manvi07.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-22T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/talk/</loc>
+    <loc>http://localhost:1313/talk/</loc>
     <lastmod>2025-10-22T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/talk/pycon/</loc>
+    <loc>http://localhost:1313/talk/pycon/</loc>
     <lastmod>2025-10-22T17:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/talk/mtp/</loc>
+    <loc>http://localhost:1313/talk/mtp/</loc>
     <lastmod>2021-06-21T11:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/project/functional/</loc>
+    <loc>http://localhost:1313/project/functional/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/category/blog/</loc>
+    <loc>http://localhost:1313/category/blog/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/tag/lockdown/</loc>
+    <loc>http://localhost:1313/tag/lockdown/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/author/manvi-gupta/</loc>
+    <loc>http://localhost:1313/author/manvi-gupta/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/post/world-pandemic/</loc>
+    <loc>http://localhost:1313/post/world-pandemic/</loc>
     <lastmod>2021-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/project/algodiff/</loc>
+    <loc>http://localhost:1313/project/algodiff/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/project/sat/</loc>
+    <loc>http://localhost:1313/project/sat/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/post/hacking-google-maps/</loc>
+    <loc>http://localhost:1313/post/hacking-google-maps/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/tag/heuristics-contest/</loc>
+    <loc>http://localhost:1313/tag/heuristics-contest/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/category/solution-proposal/</loc>
+    <loc>http://localhost:1313/category/solution-proposal/</loc>
     <lastmod>2020-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/publication-type/3/</loc>
+    <loc>http://localhost:1313/publication-type/3/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/publication/einsteinpy/</loc>
+    <loc>http://localhost:1313/publication/einsteinpy/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/publication_types/</loc>
+    <loc>http://localhost:1313/publication_types/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://manvi07.github.io/publication/</loc>
+    <loc>http://localhost:1313/publication/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url>
 </urlset>

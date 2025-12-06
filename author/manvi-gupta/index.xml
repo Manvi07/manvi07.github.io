@@ -2,21 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manvi Gupta</title>
-    <link>https://manvi07.github.io/author/manvi-gupta/</link>
-      <atom:link href="https://manvi07.github.io/author/manvi-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/manvi-gupta/</link>
+      <atom:link href="http://localhost:1313/author/manvi-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Manvi Gupta</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://manvi07.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Manvi Gupta</title>
-      <link>https://manvi07.github.io/author/manvi-gupta/</link>
+      <link>http://localhost:1313/author/manvi-gupta/</link>
     </image>
     
     <item>
-      <title>The World was Hit by a Pandemic!</title>
-      <link>https://manvi07.github.io/post/world-pandemic/</link>
+      <title>Manvi Gupta</title>
+      <link>http://localhost:1313/author/manvi-gupta/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://manvi07.github.io/post/world-pandemic/</guid>
+      <guid>http://localhost:1313/author/manvi-gupta/</guid>
+      <description>&lt;p&gt;I am a Machine Learning Engineer at &lt;a href=&#34;https://www.adobe.com/&#34; target=&#34;_blank&#34;&gt;Adobe India&lt;/a&gt;. I am a part of the 
+&lt;a href=&#34;http://firefly.adobe.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Firefly &amp;amp; GenAI&lt;/a&gt; team.  I have completed my Bachelor in Technology (B.Tech.) in &lt;i&gt;Computer Science and Engineering&lt;/i&gt; from the &lt;a href = &#34;http://iitmandi.ac.in/&#34; target=_blank&gt; Indian Institute of Technology (IIT) Mandi &lt;/a&gt; with my winter-semester 2019-2020 from &lt;a href=&#34;https://www.rwth-aachen.de/&#34; target=_blank&gt; RWTH Aachen University Germany &lt;/a&gt;. &lt;!-- , where I got a chance to indulge in Masters-level courses &amp; research projects.--&gt;&lt;/p&gt;
+&lt;!-- At Adobe, we work on the in-house Machine Learning Platform, &lt;a href=&#34;https://www.adobe.com/in/sensei.html&#34; target=_blank&gt; Sensei&lt;/a&gt;. Here, we combine the power of Cloud Technology and the ease of use of a platform to make it easier for researchers to focus on their ML research. More challenges kick in when handling the huge scale of requests, varied resource requirements and optimisations. --&gt;
+&lt;p&gt;At Adobe, I contribute to our in-house AI platform, combining cloud technology with user-friendly tools to streamline research training. Scaling infrastructure, optimizing resources, and handling massive ML workloads keep things exciting!&lt;/p&gt;
+&lt;p&gt;Beyond Computer Science, I have a strong interest in Mathematics &amp;amp; Security. As a part of my B.Tech, I have worked on a wide range of projects ranging from Web Development to Deep Neural Networks. My Bachelor Thesis was on, &lt;i&gt;&amp;ldquo;Why Deep Learning Works?&amp;quot;&lt;/i&gt; with &lt;a href=&#34;https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&amp;hl=en&#34; target=_blank&gt;Dr. Samar Agnihotri&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- I think of myself as a hard-working and fun-loving person, who makes sure to stick to the timelines. --&gt;
+&lt;p&gt;I’m a mix of hard work and fun &amp;ndash; always on time, yet always up for an adventure. I love travelling to new places. When not working, find me enjoying nature, catching up with family and friends, or geeking out over science fiction. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning. Always happy to lend a hand (or a fun fact) whenever I can!&lt;/p&gt;
+&lt;!-- Currently, I am working with &lt;a href=&#34;https://scholar.google.co.in/citations?user=qZkww5oAAAAJ&amp;hl=en&#34; target=_blank&gt;Dr. Samar Agnihotri&lt;/a&gt; on my final year Major Technical Project, which is on &lt;b&gt;&#34;Why Deep Learning Works?&#34;&lt;/b&gt;.--&gt;
+&lt;!-- My research interests include Deep Learning and Mathematical Computer Science. --&gt; 
+&lt;!-- Strong interest in CS and technology led me to become the founder chairperson of ACM-Women Chapter IIT Mandi, that constantly works towards women upliftment in the related fields. --&gt;
+&lt;!-- My other hobbies include reading, writing &amp; travelling. I have always been fascinated by the advancements shaping our future and believe that the only attitude that keeps one going is to never stop learning!
+--&gt; 
+</description>
+    </item>
+    
+    <item>
+      <title>The World was Hit by a Pandemic!</title>
+      <link>http://localhost:1313/post/world-pandemic/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/world-pandemic/</guid>
       <description>&lt;p&gt;It was somewhere in January 2020, when I first heard of a deadly virus called &lt;i&gt;Corona&lt;/i&gt;, affecting numerous people in China. I was in Germany then (semester-exchange) and didn’t bother to give much attention to it, since I was too busy with my course work and in planning trips to beautiful places across Europe, oblivious of the fact that the world is soon going to be under lockdown.&lt;/p&gt;
 
 
@@ -97,9 +117,9 @@ With technology coming to the rescue in such times, there’s more to ponder upo
     
     <item>
       <title>Hacking-Google-Maps Contest Submission</title>
-      <link>https://manvi07.github.io/post/hacking-google-maps/</link>
+      <link>http://localhost:1313/post/hacking-google-maps/</link>
       <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://manvi07.github.io/post/hacking-google-maps/</guid>
+      <guid>http://localhost:1313/post/hacking-google-maps/</guid>
       <description></description>
     </item>
     
