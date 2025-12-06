@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Manvi Gupta</title>
-    <link>http://localhost:1313/talk/</link>
-      <atom:link href="http://localhost:1313/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://manvi07.github.io/talk/</link>
+      <atom:link href="https://manvi07.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 17:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
+      <url>https://manvi07.github.io/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>http://localhost:1313/talk/</link>
+      <link>https://manvi07.github.io/talk/</link>
     </image>
     
     <item>
       <title>Scheduling ML Jobs at Scale</title>
-      <link>http://localhost:1313/talk/pycon/</link>
+      <link>https://manvi07.github.io/talk/pycon/</link>
       <pubDate>Wed, 22 Oct 2025 17:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/pycon/</guid>
+      <guid>https://manvi07.github.io/talk/pycon/</guid>
       <description>&lt;p&gt;Embed your slides or video here using 
 &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Why Deep Learning Works?</title>
-      <link>http://localhost:1313/talk/mtp/</link>
+      <link>https://manvi07.github.io/talk/mtp/</link>
       <pubDate>Mon, 21 Jun 2021 11:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/talk/mtp/</guid>
+      <guid>https://manvi07.github.io/talk/mtp/</guid>
       <description>&lt;p&gt;Embed your slides or video here using 
 &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Manvi Gupta</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://manvi07.github.io/project/</link>
+      <atom:link href="https://manvi07.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu_e747e089a9e68c83.png</url>
+      <url>https://manvi07.github.io/images/icon_hu_e747e089a9e68c83.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://manvi07.github.io/project/</link>
     </image>
     
     <item>
       <title>Optimizing Functional Language Compiler</title>
-      <link>http://localhost:1313/project/functional/</link>
+      <link>https://manvi07.github.io/project/functional/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/functional/</guid>
+      <guid>https://manvi07.github.io/project/functional/</guid>
       <description>&lt;p&gt;Detailed report coming soon!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AlgoDiff Spark</title>
-      <link>http://localhost:1313/project/algodiff/</link>
+      <link>https://manvi07.github.io/project/algodiff/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/algodiff/</guid>
+      <guid>https://manvi07.github.io/project/algodiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAT Solver</title>
-      <link>http://localhost:1313/project/sat/</link>
+      <link>https://manvi07.github.io/project/sat/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/sat/</guid>
+      <guid>https://manvi07.github.io/project/sat/</guid>
       <description></description>
     </item>
     
